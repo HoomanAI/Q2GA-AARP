@@ -4,8 +4,9 @@ This repository contains the implementation, mathematical formulation, case stud
 
 > **"Reinforcement Learning-Assisted Quantum-Inspired Genetic Algorithm for Cyber Risk-Aware Autonomous Ambulance Allocation and Routing"**
 
----
-![Q2GA Framework](figures/Q2GA Hooman Razavi.png)
+---<p align="center">
+  <img src="figures/Q2GA Hooman Razavi.png" width="800">
+</p>
 
 ## Overview
 
