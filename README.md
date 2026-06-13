@@ -113,14 +113,14 @@ The proposed framework is evaluated using three real-world-inspired emergency re
 
 A metropolitan emergency medical response network representing urban ambulance allocation and routing challenges under varying emergency demand patterns and cyber risk conditions.
 <p align="center">
-  <img src="figures/route_map_Ottawa.png" width="800">
+  <img src="figures/route_map_Ottawa.png" width="400">
 </p>
 
 ### Case Study 2: Calgary, Canada
 
 A large-scale urban emergency response scenario focusing on ambulance allocation efficiency, response time optimization, and resilience against communication disruptions.
 <p align="center">
-  <img src="figures/route_map_Calgary.png" width="800">
+  <img src="figures/route_map_Calgary.png" width="400">
 </p>
 
 ### Case Study 3: Los Angeles Wildfire Emergency Response (January 2025)
@@ -133,11 +133,12 @@ A wildfire emergency response scenario based on the January 2025 Los Angeles wil
 - Resource scarcity
 - Increased cyber-physical system vulnerabilities
 
+<p align="center">
+  <img src="figures/route_map_wildfire_LA.png" width="400">
+</p>
+
 The wildfire case study demonstrates the ability of Q2GA to support resilient emergency response operations during complex multi-hazard events.
 
-<p align="center">
-  <img src="figures/route_map_LA.png" width="800">
-</p>
 
 ## Results
 
