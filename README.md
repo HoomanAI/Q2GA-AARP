@@ -52,53 +52,81 @@ Q2GA-Cyber-EMS/
 
 ## Methodology
 
-The proposed Q2GA framework combines:
+The proposed Q2GA framework integrates **Reinforcement Learning (RL)** and a **Quantum-Inspired Genetic Algorithm (QGA)** to solve the cyber risk-aware autonomous ambulance allocation and routing problem.
 
-### 1. Quantum-Inspired Genetic Algorithm (QGA)
+### 1. Reinforcement Learning (Q-Learning)
 
-- Quantum bit representation
-- Rotation gate updates
-- Population-based evolutionary search
+The reinforcement learning component continuously learns from the optimization process and dynamically adjusts algorithm parameters based on observed rewards.
 
-### 2. Q-Learning
+Key functions include:
 
 - Adaptive parameter tuning
 - Reward-driven learning
+- State-action evaluation
 - Dynamic optimization guidance
+- Improved exploration-exploitation balance
 
-### 3. Cyber Risk-Aware Optimization
+### 2. Quantum-Inspired Genetic Algorithm (QGA)
 
-- Communication reliability assessment
-- Service disruption modeling
-- Infrastructure vulnerability consideration
+The QGA component performs population-based optimization using quantum-inspired representations and operators.
 
----
+Key features include:
 
-## Research Objectives
+- Quantum bit (Q-bit) representation
+- Rotation gate updates
+- Probabilistic solution generation
+- Population-based evolutionary search
+- Efficient exploration of large solution spaces
 
-The optimization framework aims to:
+### 3. Q2GA Hybrid Optimization Framework
 
-- **Minimize** emergency response time
-- **Maximize** emergency coverage
-- **Improve** fairness among emergency requests
-- **Reduce** operational energy consumption
-- **Increase** patient survival likelihood
-- **Mitigate** cyber-induced operational disruptions
+The proposed Q2GA framework combines the strengths of reinforcement learning and quantum-inspired evolutionary optimization.
+
+The reinforcement learning agent dynamically adjusts QGA rotation gate parameters based on optimization performance, enabling:
+
+- Faster convergence
+- Enhanced solution quality
+- Adaptive search behavior
+- Improved robustness under dynamic conditions
+- Better handling of cyber-induced disruptions
+
+### 4. Cyber Risk-Aware Emergency Response Modeling
+
+The optimization model explicitly incorporates cyber risk factors that may affect emergency response operations, including:
+
+- Communication failures
+- Network disruptions
+- Service availability degradation
+- Infrastructure vulnerabilities
+- Cyber-induced routing uncertainties
 
 ---
 
 ## Case Studies
 
-The repository includes multiple emergency response case studies for evaluating the proposed framework under different operational conditions and cyber risk scenarios.
+The proposed framework is evaluated using three real-world-inspired emergency response scenarios:
 
-Examples include:
+### Case Study 1: Ottawa, Canada
 
-- Urban emergency response networks
-- Metropolitan-scale deployment scenarios
-- Cyber disruption and communication failure scenarios
-- Resource-constrained ambulance allocation problems
+A metropolitan emergency medical response network representing urban ambulance allocation and routing challenges under varying emergency demand patterns and cyber risk conditions.
 
----
+### Case Study 2: Calgary, Canada
+
+A large-scale urban emergency response scenario focusing on ambulance allocation efficiency, response time optimization, and resilience against communication disruptions.
+
+### Case Study 3: Los Angeles Wildfire Emergency Response (January 2025)
+
+A wildfire emergency response scenario based on the January 2025 Los Angeles wildfire events. This case study investigates ambulance allocation and routing under large-scale emergency conditions characterized by:
+
+- Rapidly changing demand patterns
+- Infrastructure disruptions
+- Road network constraints
+- Resource scarcity
+- Increased cyber-physical system vulnerabilities
+
+The wildfire case study demonstrates the ability of Q2GA to support resilient emergency response operations during complex multi-hazard events.
+
+
 
 ## Results
 
