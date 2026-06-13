@@ -1,0 +1,14 @@
+[gamma] frac=0.00 -> gamma_budget=0
+[gamma] frac=0.10 -> gamma_budget=3
+[gamma] frac=0.20 -> gamma_budget=6
+[gamma] frac=0.30 -> gamma_budget=9
+[gamma] frac=0.40 -> gamma_budget=12
+[gamma] frac=0.50 -> gamma_budget=15
+[mttr] mttr=2.0
+[mttr] mttr=4.0
+[mttr] mttr=8.0
+[mttr] mttr=12.0
+[mttr] mttr=16.0
+[mttr] mttr=24.0
+
+Saved sensitivity results to E:\Working Docs\Papers\RLQGA\June 2026\Q2GA_AARP\results
