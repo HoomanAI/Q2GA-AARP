@@ -93,6 +93,10 @@ The reinforcement learning agent dynamically adjusts QGA rotation gate parameter
 - Improved robustness under dynamic conditions
 - Better handling of cyber-induced disruptions
 
+<p align="center">
+  <img src="figures/Q2GA Hooman Razavi.png" width="800">
+</p>
+
 ### 4. Cyber Risk-Aware Emergency Response Modeling
 
 The optimization model explicitly incorporates cyber risk factors that may affect emergency response operations, including:
