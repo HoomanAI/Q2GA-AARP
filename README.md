@@ -6,7 +6,7 @@ This repository contains the implementation, mathematical formulation, case stud
 
 ---
 
-![Demo](figures/ARRP_schematic.gif)
+![Demo](figures/AARP_schematic.gif)
 
 ## Overview
 
