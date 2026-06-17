@@ -6,6 +6,8 @@ This repository contains the implementation, mathematical formulation, case stud
 
 ---
 
+![Demo](figures/ARRP_schematic.gif)
+
 ## Overview
 
 Emergency medical response systems require rapid and reliable ambulance allocation and routing to minimize response times and improve patient outcomes. The emergence of autonomous vehicles offers new opportunities for intelligent emergency response; however, the increasing integration of cyber-physical systems introduces cybersecurity risks that may disrupt communication, routing decisions, and service availability.
